@@ -1,0 +1,8 @@
+* {
+    font-family: "Nunito", sans-serif;
+    scroll-behavior: smooth;
+}
+
+.splide__slide  {
+    height: 100% !important;
+}
